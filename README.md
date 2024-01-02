@@ -1,4 +1,4 @@
-# Seedify Code Challenge
+# Code Challenge
 
 Challenge: Build a simple decentralized voting application using React.js with a smart contract already done
 
